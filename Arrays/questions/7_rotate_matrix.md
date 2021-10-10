@@ -12,7 +12,9 @@ You need to do this in place.
 
 ## Problem Constraints
 
+```
 1 <= n <= 1000
+```
 
 ## Input Format
 
@@ -76,4 +78,4 @@ Return the 2D rotated matrix.
  2D array remains the same as there is only element.
 ```
 
-[Go to the Solution](../solutions/2_rotate_matrix.py)
+[Go to the Solution](../solutions/7_rotate_matrix.py)
