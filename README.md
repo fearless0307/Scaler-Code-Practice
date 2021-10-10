@@ -1,5 +1,7 @@
 # Scaler Code Practice
 
+1. Arrays Problem
+2. Bit Manupulation
 ## Arrays Problem
 
 1. [Maximum Absolute Difference](Arrays/Maximum%20Absolute%20Difference.ipynb)
