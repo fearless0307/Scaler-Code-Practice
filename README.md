@@ -7,3 +7,4 @@
 5. [Arrays Problem](Arrays)
 6. [Bit Manipulation](Bit%20Manipulation)
 7. [Recursion & Backtracking](Recursion%20&%20Backtracking)
+8. [Linked List](Linked%20List)
